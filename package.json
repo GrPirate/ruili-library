@@ -1,0 +1,25 @@
+{
+  "name": "ruili-library",
+  "version": "1.0.0",
+  "description": "a library test",
+  "main": "dist/ruili-library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrPirate/ruili-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrPirate/ruili-library/issues"
+  },
+  "homepage": "https://github.com/GrPirate/ruili-library#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.25.1"
+  }
+}
